@@ -4,14 +4,18 @@
 
 #define stddeutsch.h stdlib.h
 #define umfassen include
-#define ob if
 #define wahr 0
 #define falsch 1
+
+// PRINT
 #define drucken(fmt, ...) printf(fmt, ##__VA_ARGS__)
 
+// LOGIC
 #define während while
 #define machen do
+#define ob if
 
+// STANDARD
 #define große_t size_t
 #define EXIT_FAILURE SCHEITERN_AUSFAHRT
 #define EXIT_SUCCESS ERFOLG_AUSFAHRT
