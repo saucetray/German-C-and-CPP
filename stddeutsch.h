@@ -17,7 +17,7 @@
 #define ob if
 
 // STANDARD
-#define große_t size_t
+#define große_a size_t
 #define EXIT_FAILURE SCHEITERN_AUSFAHRT
 #define EXIT_SUCCESS ERFOLG_AUSFAHRT
 #define RAND_MAX ZUFÄLLIG_MAX
