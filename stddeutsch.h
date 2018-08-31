@@ -1,4 +1,5 @@
-// deutsch c
+// stddeutsch.h replacing stdlib.h
+// author Justin Sostre 
 
 #include <stdlib.h>
 
@@ -26,4 +27,7 @@
 #define azug(zeich) atoi(zeich)
 #define zeichzud(zeich, zeig) strod(zeich, zeig)
 
-
+// Memory
+#define szourd(zeich) malloc(zeich)
+#define czourd(zeich) calloc(zeich)
+#define rezourd(zeich) realloc(zeich)
