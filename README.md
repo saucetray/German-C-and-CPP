@@ -4,7 +4,7 @@
 
 Have you ever sat at home and thought about how the world codes if they don't speak English? Well the answer is that they code in English. How embarassing! I am starting a revolution where we will code in our vernacular.
 
-If you want a truly German C. There will be a compiler for German-C in the making. Coming 2019.
+If you want a truly German C... Well... It may come in 2020.
 
 ### Explanation
 
