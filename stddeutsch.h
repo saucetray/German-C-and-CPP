@@ -2,8 +2,8 @@
 
 #include <stdlib.h>
 
-#define stdlib.h stddeutsch.h
-#define include umfassen
+#define stddeutsch.h stdlib.h
+#define umfassen include
 #define ob if
 #define wahr 0
 #define falsch 1
@@ -21,6 +21,5 @@
 #define azus(zeich) atol(zeich)
 #define azug(zeich) atoi(zeich)
 #define zeichzud(zeich, zeig) strod(zeich, zeig)
-//#define strol
 
 
