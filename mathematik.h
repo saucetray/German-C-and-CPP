@@ -1,4 +1,5 @@
-// mathematik.h
+// mathematik.h replacing math.h
+// author Justin Sostre
 
 #include <math.h>
 
