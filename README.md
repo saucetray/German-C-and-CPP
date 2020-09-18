@@ -14,4 +14,4 @@ Sitting here is the source definitions for macros for the stdlib of c and the st
 
 ### Inspiration
 
-I was insipred by a Keller Lewis, Liam Middlebrook, and Schuyler Martin. Thank you.
+I was inspired by a Keller Lewis, Liam Middlebrook, and Schuyler Martin. Thank you.
